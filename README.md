@@ -1,5 +1,5 @@
 # Desk-Mounted Sim-Racing Handbrake
-##### As the name suggests, an analogue, desk-mounted, sim-racing handbrake. With 20° of travel and a 2.42" OLED display.
+##### As the name suggests, an analogue, desk-mounted, sim-racing handbrake. With 25° of travel and a 2.42" OLED display.
 
 readme layout
 (reqs):
