@@ -26,6 +26,9 @@ The hardstop is the pivot plate hitting the top sheet metal spring holder. The l
  - B100k Potentiometer
  - KY-035 hall effect sensor
 
+### Bill of Materials
+ - TBD
+
 ### Wiring Diagram
 <img width="785" height="678" alt="image" src="https://github.com/user-attachments/assets/5a59feda-6ff5-4a90-9e41-811890c0f5c8" />
 
