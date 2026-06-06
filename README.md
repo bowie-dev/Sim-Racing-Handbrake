@@ -58,6 +58,7 @@ The hardstop is the pivot plate hitting the top sheet metal spring holder. The l
 | M1.6x5 Socket Head | Fastens microswitch to chassis. | N/A | 2 | N/A | N/A | M1.6x0.35 x 5mm Socket Head | Need |
 | M8x6 Socket Head | Provides seating for spring on spring plates. | N/A | 2 | N/A | N/A | M8x1.25 x 6mm Socket Head | Need |
 | M3x30 Socket Head | Mounts grip to lever plate. | N/A | 2 | N/A | N/A | M3x0.5 x 30mm Socket Head | Need |
+Total = AUD$130 = USD$91
 
 ### Wiring Diagram
 <img width="1920" height="1658" alt="image" src="https://github.com/user-attachments/assets/f73e9b0e-6caf-434b-a2cd-f67fceb55275" />
