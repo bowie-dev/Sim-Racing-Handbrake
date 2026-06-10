@@ -1,14 +1,16 @@
 # Desk-Mounted Sim-Racing Handbrake
 ### As the name suggests, an analogue, desk-mounted, sim-racing handbrake. With 25° of travel and a 2.42" OLED display.
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/4f64b404-eafb-439e-9a29-accb06b1c651" />
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/19337345-0edf-4364-8767-2fd8c8077ce4" />
+
+<img width="300" alt="2" src="https://github.com/user-attachments/assets/ab2959ae-fc1a-44a0-b739-4ee17df2fca4" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/7a165610-1f78-4387-b89e-db8390666698" />
+
 
 ### Why was it made and what problem does it solve?
 
 > I am quite into sim-racing and specifically sim-drifting. To initiate a drift when drifting it is nessecary to actuate the handbrake and at the moment, I do that by clicking a button on my steering wheel. This is difficult to do, especially with the wheel moving around, the button being so small, and my hands being occupied with steering or shifting. To solve this problem, many simulator setups have external handbrakes. This system offers a really cheap solution that comes really close to handbrakes that could cost significantly more. I have always wanted to have a handbrake as a part of my sim-racing setup and have always known that it would be something that I could design and engineer. What makes my solution unique is the cost-to-quality and the simple, highly compatible mounting design. Rather than needing to be bolted to an expensive frame, my solution mounts directly and securely to a variety of desktops.
 
 ### **How** is it used and how does it work?
-> When sim-drifting, the user pulls on the handle of the handbrake. This is read by the potentiometer and the hall effect sensors within the assembly and is sent as analogue signals to a Seeed XIAO RP2040 microcontroller. The microcontroller then parses the signal and sends it to the computer which is then read by the games software and used to apply force to the handbrake in the game, mimicking what the user is doing in real life. The lever is connected by two bearings to the chassis, and the chassis is mounted to the desk via a built-in clamp. The users force is resisted by a spring held captive between the lever and chassis. The spring is held between two bolts and is changable for different handbrake "feels".
+> When sim-drifting, the user pulls on the handle of the handbrake. This is read by the hall effect sensors within the assembly and is sent as analogue signals to a Seeed XIAO RP2040 microcontroller. The microcontroller then parses the signal and sends it to the computer which is then read by the games software and used to apply force to the handbrake in the game, mimicking what the user is doing in real life. The lever is connected by two bearings to the chassis, and the chassis is mounted to the desk via a built-in clamp. The users force is resisted by a spring held captive between the lever and chassis. The spring is held between two bolts and is changable for different handbrake "feels".
 
 ### Description
 A low-cost, high-quality, sim-racing handbrake. Comprised mainly of stainless steel sheet metal plates and 3D printed case components. To measure the angle of the lever, a potentiometer mounted in the main shaft, a hall effect sensor interacting with a magnet on the pivot lever, and a microswitch used to know when the lever is pulled to the max. Two bearings are used to hold the shaft and the pivot plates. The spring is held between two M8 bolts, one on the pivot, one on the chassis. They are mounted to the plates through sheet metal plates that span the width of the assembly. Here is a cross section view:
@@ -26,8 +28,8 @@ The hardstop is the pivot plate hitting the top sheet metal spring holder. The l
  - KY-035 hall effect sensor
 
 ### Bill of Materials
-| Part | Description | Link | Quantity | Unit Price ($AUD) | Total Price ($AUD) | Notes | Have/Need/Can Make |
-|---|---|---|---|---|---|---|---|
+| Part | Description | Link | Quantity | Unit Price | Total Price | Notes | Have/Need/Can Make |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Chassis Plate | Stainless steel sheet metal, bent and tapped. Acts as main chassis for assembly and mounting. | N/A | 1 | 11.53 | 11.53 | 3mm Stainless Steel 304 | Need |
 | Lever Plate | Stainless steel sheet metal, bent and tapped. Acts as pivot and lever arm for handbrake. | N/A | 1 | 15.89 | 15.89 | 3mm Stainless Steel 304 | Need |
 | Spring Plate Small | Stainless steel sheet metal, bent and tapped. Retains spring and bolts to pivot plate. | N/A | 1 | 4.11 | 4.11 | 3mm Stainless Steel 304 | Need |
@@ -50,15 +52,23 @@ The hardstop is the pivot plate hitting the top sheet metal spring holder. The l
 | Jumper Wires M-F | To connect components in assembly. Male connectors on one side, female on one side. | https://core-electronics.com.au/male-female-jumper-wire-40-20cm.html | 1 | 3.95 | 3.95 | 200mm M-F x40 | Need |
 | Jumper Wires F-F | To connect components in assembly. Female connectors on both sides. | https://core-electronics.com.au/solderless-breadboard-jumper-cable-wires-female-female-40-pieces.html | 1 | 3.95 | 3.95 | 200mm F-F x40 | Need |
 | Main Case | 3D printed black PLA case that encases most of the assembly. | N/A | 1 | N/A | N/A |  | Can Make |
-| LCD Bevel | 3D printed black PLA bevel that covers the LCD PCB. | N/A | 1 | N/A | N/A |  | Can Make |
-| Fastener Hole Inserts | 3D printed black PLA hole inserts to hide the fasteners holes and fasteners. | N/A | N/A | N/A | N/A |  | Can Make |
+| Fastener Hole Inserts | 3D printed black PLA hole inserts to hide the fasteners holes and fasteners. | N/A | 14 | N/A | N/A |  | Can Make |
 | M6x10 Button Head | Fastens the shaft and rotating assembly to the chassis. | N/A | 2 | N/A | N/A | M6x1.0 x 10mm Button Head | Need |
-| M3x5 Socket Head | Fastens spring plates to pivot and chassis. | N/A | 8 | N/A | N/A | M3x0.5 x 5mm Socket Head | Need |
-| M3x6 Socket Head | Fastens case to chassis. | N/A | 10 | N/A | N/A | M3x0.5 x 6mm Socket Head | Need |
-| M1.6x5 Socket Head | Fastens microswitch to chassis. | N/A | 2 | N/A | N/A | M1.6x0.35 x 5mm Socket Head | Need |
+| M3x6 Button Head | Fastens grip to lever. | N/A | 2 | N/A | N/A | M3x0.5 x 6mm Button Head | Need |
+| M3x6 Socket Head | Fastens case to chassis. Fastens grip to lever. Fastens spring plates to chassis. | N/A | 20 | N/A | N/A | M3x0.5 x 6mm Socket Head | Need |
+| M1.6x10 Socket Head | Fastens microswitch to chassis. | N/A | 2 | N/A | N/A | M1.6x0.35 x 10mm Socket Head | Need |
+| M2x8 Socket Head | Fastens KY-035 to chassis. | N/A | 2 | N/A | N/A | M2x0.4 x 8mm Socket Head | Need |
 | M8x6 Socket Head | Provides seating for spring on spring plates. | N/A | 2 | N/A | N/A | M8x1.25 x 6mm Socket Head | Need |
-| M3x30 Socket Head | Mounts grip to lever plate. | N/A | 2 | N/A | N/A | M3x0.5 x 30mm Socket Head | Need |
-Total = AUD$130 = USD$91
+| M2 Hex Nut | Fastens M2 bolts. | N/A | 2 | N/A | N/A | M2 Hex Nut | Need |
+| M1.6 Hex Nut | Fastens M1.6 bolts. | N/A | 2 | N/A | N/A | M1.6 Hex Nut | Need |
+| Magnet | Produces field that the hall effect sensor can detect. | https://core-electronics.com.au/2912-series-neodymium-magnet-5mm-diameter-15mm-thickness-2-pack.html | 1 | 4.9 | 4.9 | 2x 1.5mm x 5mm | Need |
+|  |  |  |  | Subtotal | AUD$81.02 |  |  |
+|  |  |  |  | JLC Shipping | 36.17 |  |  |
+|  |  |  |  | Core Electronics Shipping | 6.8 |  |  |
+|  |  |  |  | Jaycar Shipping | 9.95 |  |  |
+|  |  |  |  | Total | AUD$134 |  |  |
+|  |  |  |  | Total | ~USD$94 |  |  |
+Total = AUD$134 = USD$94
 
 ### Wiring Diagram
 <img width="1920" height="1658" alt="image" src="https://github.com/user-attachments/assets/f73e9b0e-6caf-434b-a2cd-f67fceb55275" />
