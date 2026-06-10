@@ -150,10 +150,6 @@ ok i gotta go to work so that is the jouirnal for now thatnks ang bye
 
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/5b514a59-76ea-4cb2-bbf0-6b7136837cab/video.mp4
-
 ## Entry 2
 - ID: 5105
 - Author: bowie
@@ -227,10 +223,6 @@ prototyping
 
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/ae539b6c-737e-400c-b2c4-8792d6d39ee2/video.mp4
-
 ## Entry 3
 - ID: 5211
 - Author: bowie
@@ -264,9 +256,6 @@ Maybe i can just retain the bearings with 3dp covers, thats what im gonna go wit
 Oh but i really want flanged bearings:
 Ill get back to this later bye for now
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/1ee8bf55-0dfe-4475-a6a8-4ef6dcff200b/video.mp4
 
 ## Entry 4
 - ID: 5257
@@ -295,10 +284,6 @@ ohkay buh bye!
 
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/3678ffff-5d82-4fa6-89be-48d13ac51066/video.mp4
-
 ## Entry 5
 - ID: 5424
 - Author: bowie
@@ -323,9 +308,6 @@ ohkay buhbye
 
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/045c36b8-b536-4ea1-8b75-720af1264dc0/video.mp4
 
 ## Entry 6
 - ID: 5590
@@ -341,9 +323,6 @@ i also made the grip piece (needs similar work)
 i wont start the BOM until i have all the fasteners in the cad.
 next entry i will be tidying the parts and preping them for manufacture (maybe)
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/c6a09666-dfb4-4bb8-8b4f-c36635f45d08/video.mp4
 
 ## Entry 7
 - ID: 5737
@@ -368,10 +347,6 @@ All parts with considerable forces applied to them have internal stresses signif
 Now that I know that all the parts designs are feasible and able to handle the loads, I can begin to modify the parts for manufacture and start prototyping subsystems.
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/3ca1a4d6-2a1a-42b6-8ff8-40f10bce66e8/video.mp4
-
 ## Entry 8
 - ID: 5890
 - Author: bowie
@@ -386,9 +361,6 @@ Today I finished the 3D printed parts and casing, they all have a nice sleek fin
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTI0MDcsInB1ciI6ImJsb2JfaWQifX0=--c1bd6ffc15f56aa96886af6f305e439a5eff93f4/image.png)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/0285e8f9-2962-4772-ba33-5d63efe4b424/video.mp4
 
 ## Entry 9
 - ID: 6087
@@ -417,9 +389,6 @@ i reallly wanna get started on building but this is gonna be a m,easure twice cu
 ok thanks im realyly tired now
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/263814ec-bc54-4b83-bef8-ced12f69feec/video.mp4
 
 ## Entry 10
 - ID: 6263
@@ -448,9 +417,6 @@ This is a cross-section of the grip:
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTMyOTksInB1ciI6ImJsb2JfaWQifX0=--a3397bf53373725989fecf6f5c90d3c7eb1a75d0/image.png)
 now it can take a plastite fastenerok
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/fdc7a63d-dfe0-490a-b8e9-d138897b21f7/video.mp4
 
 ## Entry 11
 - ID: 6390
@@ -494,9 +460,6 @@ Ok i think thats it for today tq n bye
 
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/bcc26737-433e-4780-a204-affcb29e6218/video.mp4
 
 ## Entry 12
 - ID: 6572
@@ -543,9 +506,6 @@ thats all for today,
 the next few entries will probably be a lot more hardware/cad focused so i can get that done and finish the rest of the project.
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/631eb91e-ac89-4747-92f6-6e97e5b4d3d3/video.mp4
 
 ## Entry 13
 - ID: 6766
@@ -561,9 +521,6 @@ I tidied up the cad and finished getting all the fasteners correct, I tried impl
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4MDcsInB1ciI6ImJsb2JfaWQifX0=--0d5fa312efacc906ebf8751640d521a85c11c451/image.png)
 Next I wanna print some parts for prototyping and ill start work on the 'zine.
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/a6983f3d-b2ce-4aca-8c89-576514c2cc7d/video.mp4
 
 ## Entry 14
 - ID: 6930
@@ -584,9 +541,6 @@ With a nice draft design, some straight YAP on the page, and school tomorrow; I 
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTUxNDksInB1ciI6ImJsb2JfaWQifX0=--094bde38ecd3ca118cd41875252ef7ebe1449f88/image.png)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/d5cb763a-7abd-4860-8c42-154404ff7f33/video.mp4
 
 ## Entry 15
 - ID: 7064
@@ -600,9 +554,6 @@ Today I got more work done on the zine. It looks pretty good so I don't think I'
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU0OTcsInB1ciI6ImJsb2JfaWQifX0=--4e24cc554d6d436301037177834a7a9a52865afc/image.png)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/394494f6-a4db-4713-b8fc-98f1f5f8bf0a/video.mp4
 
 ## Entry 16
 - ID: 7244
@@ -626,9 +577,6 @@ Bom:
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTU4MzAsInB1ciI6ImJsb2JfaWQifX0=--d0182365aad190d1ec9f5ac4c59a47a886e007a3/image.png)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/a29b9d05-3633-4375-ac64-8cd529992dad/video.mp4
 
 ## Entry 17
 - ID: 7397
@@ -656,9 +604,6 @@ The microswitch mounts to the mounting plate on the left of the handbrake via tw
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTYxNzMsInB1ciI6ImJsb2JfaWQifX0=--a959f9fec3d681ec0a1fbc24e4d7a4115fe513ee/image.png)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/bb5b441a-b159-4885-8a03-3fadd6ec1994/video.mp4
 
 ## Entry 18
 - ID: 7591
@@ -702,9 +647,6 @@ I want to find a different method of retaining the springs. I’m thinking of ha
 I need to look into how much force will need to go through the clamps into the desk and consider how Im going to make the clamp work; i may need to increase the area of the foot or introduce a cam/lever to get a lot more force. I will switch the bearings to bushings as not 100% of the rotation is achieved. I also need to consider how i will axially retain the pivoting assembly.
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/45a68f3c-19cd-47e7-8826-3a4b675b0656/video.mp4
 
 ## Entry 19
 - ID: 7781
@@ -735,9 +677,6 @@ The plates can be wayyy thinner too which i will change later gotta sleep now ok
 
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/bb9ad5bb-12ae-441b-b6fb-6373327ebad1/video.mp4
 
 ## Entry 20
 - ID: 7960
@@ -756,9 +695,6 @@ Added fasteners for the new spring plates and changed the knob/foot subassembly 
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTczODIsInB1ciI6ImJsb2JfaWQifX0=--699db8740a60429d7914b6b8e99df03b6f5f892d/image.png)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/818abc53-0591-4940-b1af-27541ff1c8ed/video.mp4
 
 ## Entry 21
 - ID: 8151
@@ -772,10 +708,6 @@ Fixed up the case geometry so that now it is flush, sleek, and actually fits tog
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTc4MjEsInB1ciI6ImJsb2JfaWQifX0=--7e7dd5f394a7a5c2dd4c10529c4e7bff13270b7a/image.png)
 I also started adding in the wiring in the CAD, I will finish off this later. 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/070ae9c9-358a-4adf-a40b-aeb227c08ac0/video.mp4
-
 ## Entry 22
 - ID: 8306
 - Author: bowie
@@ -788,10 +720,6 @@ I thinned the plates and fixed all the mates in the CAD. I also had to change th
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTgxNzIsInB1ciI6ImJsb2JfaWQifX0=--2125e721b5a091f561bb4dbd7fe486e1b0aa43cd/image.png)
 All the plates are thinner, leading to cheaper plates, a lighter assembly, and smaller packaging, without major structural disadvantages as I can make the plates out of steel for a similar price.
 
-
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/550b0ffc-9b1d-497b-8283-a8fccd9fa980/video.mp4
 
 ## Entry 23
 - ID: 8462
@@ -865,9 +793,6 @@ ZINE
 Also gotta upload files to github
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/b2495f27-15b4-4aa8-a60b-49a8ab64d5ba/video.mp4
 
 ## Entry 24
 - ID: 8648
@@ -962,9 +887,6 @@ Todo list:
 
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/e730c6dd-0173-46cc-8920-9fcf3141dce7/video.mp4
 
 ## Entry 25
 - ID: 8853
@@ -1048,9 +970,6 @@ ok bye
 
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/60099fdf-48c5-4ed8-b326-ac6ba95880bb/video.mp4
 
 ## Entry 26
 - ID: 9106
@@ -1112,10 +1031,6 @@ Looks nice and good to know that that is out of the way for now and i can get in
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjAxNjcsInB1ciI6ImJsb2JfaWQifX0=--8442968c7faf0017cac599892c2933642fdd712e/image.png)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/f1995957-e4b5-429c-82ea-2de4ee3208ea/video.mp4
-
 ## Entry 27
 - ID: 9657
 - Author: bowie
@@ -1152,9 +1067,6 @@ I also had to adjust the bottom case to be able to fit and house the PCB, i had 
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjE0MzIsInB1ciI6ImJsb2JfaWQifX0=--64ef1682b113b91484423049d4f866c14f3467bf/image.png)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/d6a29503-d379-4d7a-b99a-dcadbc4e9dff/video.mp4
 
 ## Entry 28
 - ID: 9909
@@ -1186,10 +1098,6 @@ Started making drawings then got tired
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjIwNTEsInB1ciI6ImJsb2JfaWQifX0=--7d09c0a8501b1187cb7c85419679389a160b3d9f/image.png)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/262545b9-1392-42fb-b865-9e2624eec11b/video.mp4
-- https://lookout.hackclub.com/api/media/ffc78a59-5cd0-4d58-b737-b9592e1d4d05/video.mp4
 
 ## Entry 29
 - ID: 10128
@@ -1229,9 +1137,6 @@ reposition hall effect sensor:
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjI4NzksInB1ciI6ImJsb2JfaWQifX0=--3b1e658aa51e5e93560caa3dabe325ec71147732/image.png)
 I am going to move the sensor to the side plate so that the mounting is more robust.
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/2022510c-bbf8-4159-9b88-e88379fc1f62/video.mp4
 
 ## Entry 30
 - ID: 10384
@@ -1263,9 +1168,6 @@ i also made drawings for the pivot plates:
 Theyre not full drawings just references for JLCCNC because these parts are tapped.
 good night.
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/25d60050-21af-4d3a-b022-daaad2d3a017/video.mp4
 
 ## Entry 31
 - ID: 10647
@@ -1307,9 +1209,6 @@ Also thought about the possibility of the pivot parts being one bent sheet metal
 Thats all for today
 okay i really gotta put my head down the next few days to finish this.
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/8f5067f3-d493-4df8-87fc-f2bcfa0bbc3e/video.mp4
 
 ## Entry 32
 - ID: 10876
@@ -1323,9 +1222,6 @@ Changed the magnet to be on the plate and a cylinder magnet rather than the two 
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjQ4MjgsInB1ciI6ImJsb2JfaWQifX0=--7ac7a4a4d31af17a6a0c0f43096d0b1a9d5f2c67/image.png)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/9b4dda34-c9e1-475d-a340-ae4bedd5c505/video.mp4
 
 ## Entry 33
 - ID: 11375
@@ -1347,9 +1243,6 @@ Wooh look pretty cool imo
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjYzNDYsInB1ciI6ImJsb2JfaWQifX0=--711ed5845e8950ef97df4cad68c1ecea5c75950f/image.png)
 As one part, its cheaper to order and a LOT easier to assemble.
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/62701ebb-4056-41ea-99eb-b25739586b23/video.mp4
 
 ## Entry 34
 - ID: 11837
@@ -1423,9 +1316,6 @@ Jlc quote, just need to add in fasteners and finish case now
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjc2MzYsInB1ciI6ImJsb2JfaWQifX0=--390d037cfd68f9bdebf3784202367f19fe510235/image.png)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/deb2b658-d840-4ab2-bf5a-3c55d106d231/video.mp4
 
 ## Entry 35
 - ID: 11986
@@ -1443,9 +1333,6 @@ I started writing the BOM, I split it up into sections; sheet metal parts, JLC c
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjgwODMsInB1ciI6ImJsb2JfaWQifX0=--5b3cf22d8ae6cdc84ccebe5ecbb3bd7e51faf1f1/image.png)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/19aa6813-dd1b-490e-87be-f98fe121a5d9/video.mp4
 
 ## Entry 36
 - ID: 12172
@@ -1483,9 +1370,6 @@ INITIALIZE PINS:
 Just a very rough framework (actually nothing)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/20ce0728-49be-4bb9-bd66-0a0530847ba0/video.mp4
 
 ## Entry 37
 - ID: 12289
@@ -1512,10 +1396,6 @@ Case and plate, one side of case fully encompasses assembly and plate finished o
 
 I Think ill just split it down the middle for now unless i can find another way, the screen is ~70mm wide so the case at the top has to step up to that width to house it, and theres not enough room above the top mounting plates si i added more thickness in the case to house the oled and the bevel.
 
-
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/287d7835-f9c6-4c9d-9203-c83b35105267/video.mp4
 
 ## Entry 38
 - ID: 12479
@@ -1545,9 +1425,6 @@ I also cut out the inside of the case so that bolts and nuts can protrude a bit 
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjkzOTUsInB1ciI6ImJsb2JfaWQifX0=--44fdb10c8d3b9d160dbb2368dc7d1e705cf70f8b/image.png)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/abe89065-0009-4f5c-b27f-a4ca32a22af4/video.mp4
 
 ## Entry 39
 - ID: 12756
@@ -1589,10 +1466,6 @@ TODO to ship:
 - Finish GitHub page (readme, references)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/eabb668e-30fe-4b90-a3b6-53446a09700b/video.mp4
-
 ## Entry 40
 - ID: 12980
 - Author: bowie
@@ -1617,6 +1490,3 @@ I will do a full firmware and debugging writeup once i have the parts and can co
 ![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzA1NDUsInB1ciI6ImJsb2JfaWQifX0=--7adea516f90b8e638870058c299ffdbd23f864b6/image.png)
 
 
-### Recording Links
-
-- https://lookout.hackclub.com/api/media/e456fc3b-30ff-4f52-9d05-a759fbe34935/video.mp4
