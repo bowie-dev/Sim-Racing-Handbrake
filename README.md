@@ -81,7 +81,7 @@ Total = AUD$134 = USD$94
 
 
 ### Firmware Libraries
-CircuitPython https://circuitpython.org/
+CircuitPython https://circuitpython.org/ <br>
 Adafruit CircuitPython HID Library https://github.com/adafruit/Adafruit_CircuitPython_HID/
 
 
