@@ -19,7 +19,7 @@ A low-cost, high-quality, sim-racing handbrake. Comprised mainly of stainless st
 
 The hardstop is the pivot plate hitting the top sheet metal spring holder. The lever can travel 25° from vertical. The design has a 3D printed grip piece. The clamp for mounting to the desk fits desks of sizes 16.5mm to 39mm. The design features a 2.42" OLED display, a Seeed XIAO RP2040 microcontroller, and a KY-035 hall effect sensor. The plates and most of the components (springs, clamping system, bearings, fasteners, and even 3D printed parts) can be ordered from JLC.
 
-Check ABOUT.MD for a full breakdown of the model.
+## PLEASE read [ABOUT.md](/about.md) for a full breakdown of the model and meaning behind EVERYTHING.
 
 ### Component List
  - 3D Printed Case Components
