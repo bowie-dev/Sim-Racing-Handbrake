@@ -77,4 +77,8 @@ Total = AUD$134 = USD$94
 ### Zine
 <img width="1410" height="2000" alt="SIM-RACING HANDBRAKE" src="https://github.com/user-attachments/assets/463c949c-724d-4166-91d6-0a705ddb5a25" />
 
+### Firmware Libraries
+CircuitPython https://circuitpython.org/
+Adafruit CircuitPython HID Library https://github.com/adafruit/Adafruit_CircuitPython_HID/
+
 
